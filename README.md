@@ -1,7 +1,7 @@
 ==================================================================
 Coursera Data Science Course: Getting and Cleaning Data (Course Project)
 Coded and Created by: Sanjeet Harpalani
-Date: 24 August 2014
+Date: 8/24/2014
 ==================================================================
 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to 
