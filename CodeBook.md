@@ -3,7 +3,7 @@ Process Description:
 
 Using the downloaded project data as described in the project data files, the following steps were taken to create the data sets:
 
-    1) Download project data file and save to local R workspace
+    1) Download raw project data file and save to local R workspace
 
     2) Read test and training files that contain data collected from activities performed by subjects
 
